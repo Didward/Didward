@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Didward
-- 👀 I’m interested in full stack development, game development, machine learning, data science and more! (Literally everything!)
 - 🌱 I’m currently learning Python, Javascript and C++
 - 💞️ I’m looking to collaborate with anyone please contact me!
 - 📫 How to reach me: You can send me a friend request on Discord, I will always accept! python#9373
