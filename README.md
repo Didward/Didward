@@ -1,6 +1,34 @@
-![](https://gitwar.herokuapp.com/badge?username=Didward&color=blue)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	 <br> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 	![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-   
-hello guys i am hacker python kid trash 👍 hope that's all you need to know guys bye
+<div class="markdown prose break-words dark:prose-invert light">
+  <h1>Didward's Github Profile</h1>
+  <p>
+    <img src=https://img.shields.io/github/followers/Didward?label=Followers%20%28I%20DON%27t%20have%20any%20%F0%9F%98%AD%29&style=for-the-badge>
+    <img src=https://img.shields.io/github/watchers/Didward/Didward?color=Green&style=for-the-badge>
+  </p>
+  <p>Hi there! I'm Didward, a software developer with a passion for building beautiful and efficient solutions to complex problems.</p>
+  <h2>Skills</h2>
+  <ul>
+    <li>Master at Python</li>
+    <li>Learning web development using HTML, CSS, and JavaScript</li>
+  </ul>
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      <strong>???</strong>: [UNDER CONSTRUCTION]
+    </li>
+    <li>
+      <strong>Website IP Grabber</strong>: A desktop app created using Python to get the I.P address of a website.
+    </li>
+    <li>
+      <strong>TPN-Fricker</strong>: A Luau script hub for the RPG game inspired by The Promised Neverland.
+    </li>
+    <li>
+      <strong>Bank Tycoon</strong>: A Luau script that automatically claims loot boxes when they spawn for a game called 'Bank Tycoon'.
+    </li>
+  </ul>
+  <h2>Education</h2>
+  <ul>	  
+    <li>Currently in Secondary School.</li>
+  </ul>
+  <h2>Contact</h2>
+  <p>Feel free to <a href="mailto:testuser1239861589712@gmail.com" target="_new">send me an email</a>. I'm always open to discussing new opportunities and connecting with fellow developers. </p>
+</div>
