@@ -19,7 +19,7 @@
       <strong>Website IP Grabber</strong>: A desktop app created using Python to get the I.P address of a website.
     </li>
     <li>
-      <strong>TPN-Fricker</strong>: A Luau script hub for the RPG game inspired by The Promised Neverland.
+      <strong>TPN-DESTROYER</strong>: A Luau script hub for the RPG game inspired by The Promised Neverland.
     </li>
     <li>
       <strong>Bank Tycoon</strong>: A Luau script that automatically claims loot boxes when they spawn for a game called 'Bank Tycoon'.
