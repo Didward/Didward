@@ -13,7 +13,7 @@
   <h2>Projects</h2>
   <ul>
     <li>
-      <strong>???</strong>: [UNDER CONSTRUCTION]
+      <strong>Little Alchemy 2</strong>: A project made for the game <a href="https://littlealchemy2.com" target="_blank">Little Alchemy 2</a> that returns you a file with all your missing elements.
     </li>
     <li>
       <strong>Website IP Grabber</strong>: A desktop app created using Python to get the I.P address of a website.
